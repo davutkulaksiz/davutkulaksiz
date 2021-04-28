@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from TurkeyTurkey</h3>
+<h3>A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on finishing the course [fullstackopen 2021](https://fullstackopen.com/en/)
 
