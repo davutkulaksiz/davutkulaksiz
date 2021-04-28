@@ -1,4 +1,4 @@
-## A developer who is passionate about front end, since it offers a ton of room for creativity<img src="https://media.giphy.com/media/ZeLcIBH7lKfLOkaBRH/giphy.gif" width="50px">
+<h1 align="center">## Hai<img src="https://media.giphy.com/media/ZeLcIBH7lKfLOkaBRH/giphy.gif" width="50px"><h1>
 <div align="center">
 <img align="center" width="50%" alt="Hackerman Meme" src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif"/>
 </div>
