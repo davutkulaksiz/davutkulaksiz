@@ -1,6 +1,6 @@
 <h2 align="center">A student who is passionate about web development<img align="center" src="https://media.giphy.com/media/ZeLcIBH7lKfLOkaBRH/giphy.gif" width="50px"></h2>
 <div align="center">
-  <img align="center" width="50%" alt="Hackerman Meme" src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif"/>
+  <img align="center" width="50%" alt="" src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif"/>
 </div>
 
 - ☕ I’m currently working on finishing the course [fullstackopen 2021](https://fullstackopen.com/en/)
