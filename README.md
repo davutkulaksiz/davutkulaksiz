@@ -1,4 +1,4 @@
-##<img src="https://giphy.com/stickers/Fuzzballs-cute-kawaii-fuzzballs-ZeLcIBH7lKfLOkaBRH" width="50px"></h2>
+##<img src="https://media.giphy.com/media/ZeLcIBH7lKfLOkaBRH/giphy.gif" width="50px"></h2>
 <div align="center">
 <img align="center" width="50%" alt="Hackerman Meme" src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif"/>
 </div>
