@@ -1,10 +1,10 @@
-<h3>A developer who is passionate about web development, since it offers a ton of room for creativity</h3>
+<h3 align="center">A developer who is passionate about web development, since it offers a ton of room for creativity</h3>
 
 - ☕ I’m currently working on finishing the course [fullstackopen 2021](https://fullstackopen.com/en/)
 
 - 🔦 I’m currently learning **React, NodeJS, Express, GraphQL, TypeScript, React Native**
 
-- :shipit:👨‍💻 All of my projects are available at [https://davutkulaksiz.github.io/](https://davutkulaksiz.github.io/)
+- 👨‍💻 All of my projects are available at [https://davutkulaksiz.github.io/](https://davutkulaksiz.github.io/)
 
 - 📫 How to reach me **davut.kulaksiz.n7@gmail.com**
 
