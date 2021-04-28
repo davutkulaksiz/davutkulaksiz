@@ -1,4 +1,4 @@
-## <img src="https://bestanimations.com/media/cats/50237548cool-cat-animated-gif-8.gif" width="30px"></h2>
+## <img src="https://bestanimations.com/media/cats/1451528851animated-cat-art-gif-27.gif" width="50px"></h2>
 <div align="center">
 <img align="center" width="50%" alt="Hackerman Meme" src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif"/>
 </div>
