@@ -1,4 +1,4 @@
-<h3>A developer who is passionate about web development, since it offers a ton of room for creativity</h3>
+##<img src="https://bestanimations.com/gifs/cat-art.html#.YIj4qus6P4k.link" width="30px"></h2>
 <div align="center">
 <img align="center" width="50%" alt="Hackerman Meme" src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif"/>
 </div>
