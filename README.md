@@ -2,7 +2,7 @@
 
 - ☕ I’m currently working on finishing the course [fullstackopen 2021](https://fullstackopen.com/en/)
 
-- 🔦 I’m currently learning **React, NodeJS, Express, GraphQL, TypeScript, React Native**
+- :hammer: I’m currently learning **React, NodeJS, Express, GraphQL, TypeScript, React Native**
 
 - 👨‍💻 All of my projects are available at [https://davutkulaksiz.github.io/](https://davutkulaksiz.github.io/)
 
