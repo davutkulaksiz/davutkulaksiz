@@ -1,4 +1,4 @@
-## Hi<img src="https://media.giphy.com/media/ZeLcIBH7lKfLOkaBRH/giphy.gif" width="50px">
+## I am a developer who is passionate about web development<img src="https://media.giphy.com/media/ZeLcIBH7lKfLOkaBRH/giphy.gif" width="50px">
 <div align="center">
 <img align="center" width="50%" alt="Hackerman Meme" src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif"/>
 </div>
