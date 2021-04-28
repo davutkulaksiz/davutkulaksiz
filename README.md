@@ -1,5 +1,5 @@
 <h3 align="center">A developer who is passionate about web development, since it offers a ton of room for creativity</h3>
-![](![](https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif))
+![](https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif)
 
 - ☕ I’m currently working on finishing the course [fullstackopen 2021](https://fullstackopen.com/en/)
 
