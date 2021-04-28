@@ -8,11 +8,9 @@
 
 - 📫 How to reach me **davut.kulaksiz.n7@gmail.com**
 
-- ⚡ Fun fact **I think I am**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/davutkulaksiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="davutkulaksiz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/davutkulaksiz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="davutkulaksiz" height="30" width="40" /></a>
 <a href="https://fb.com/mdkulaksiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="mdkulaksiz" height="30" width="40" /></a>
 <a href="https://instagram.com/davekulaksiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="davekulaksiz" height="30" width="40" /></a>
 </p>
