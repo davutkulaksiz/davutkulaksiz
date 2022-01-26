@@ -3,7 +3,7 @@
   <img align="center" width="50%" alt="" src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif"/>
 </div>
 
-- 🔭 I’m did my last internship at [My Security Analytics](https://mysecurityanalytics.com/)
+- 🔭 I did my last internship at [My Security Analytics](https://mysecurityanalytics.com/)
 
 - ☕ I’m currently working on finishing the course [fullstackopen](https://fullstackopen.com/en/)
 
