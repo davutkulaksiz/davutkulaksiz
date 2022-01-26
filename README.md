@@ -3,9 +3,9 @@
   <img align="center" width="50%" alt="" src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif"/>
 </div>
 
-- 🔭 I’m currently working at [My Security Analytics](https://mysecurityanalytics.com/) as intern
+- 🔭 I’m did my last internship at [My Security Analytics](https://mysecurityanalytics.com/)
 
-- ☕ I’m currently working on finishing the course [fullstackopen 2021](https://fullstackopen.com/en/)
+- ☕ I’m currently working on finishing the course [fullstackopen](https://fullstackopen.com/en/)
 
 - :hammer: I’m currently learning **React, NodeJS, Express, GraphQL, TypeScript, React Native**
 
