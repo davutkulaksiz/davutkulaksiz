@@ -3,9 +3,7 @@
   <img align="center" width="50%" alt="" src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif"/>
 </div>
 
-- 🔭 I did my last internship at [My Security Analytics](https://mysecurityanalytics.com/)
-
-- ☕ I’m currently working on finishing the course [fullstackopen](https://fullstackopen.com/en/)
+- 🔭 I am uccrently working at [JFORCE](https://www.jforce.com.tr/) as a part-time software developer
 
 - :hammer: I’m currently learning **React, NodeJS, Express, GraphQL, TypeScript, React Native**
 
