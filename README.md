@@ -5,8 +5,6 @@
 
 - 🔭 I am uccrently working at [JFORCE](https://www.jforce.com.tr/) as a part-time software developer
 
-- :hammer: I’m currently learning **React, NodeJS, Express, GraphQL, TypeScript, React Native**
-
 - 👨‍💻 All of my projects are available at [https://davutkulaksiz.github.io/](https://davutkulaksiz.github.io/)
 
 - 📫 How to reach me **davut.kulaksiz.n7@gmail.com**
