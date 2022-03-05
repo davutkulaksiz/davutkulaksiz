@@ -3,7 +3,7 @@
   <img align="center" width="50%" alt="" src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif"/>
 </div>
 
-- 🔭 I am uccrently working at [JFORCE](https://www.jforce.com.tr/) as a part-time software developer
+- 🔭 I am currently working at [JFORCE](https://www.jforce.com.tr/) as a part-time software developer
 
 - 👨‍💻 All of my projects are available at [https://davutkulaksiz.github.io/](https://davutkulaksiz.github.io/)
 
