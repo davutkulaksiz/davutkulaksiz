@@ -1,6 +1,6 @@
 <h2 align="center">A student who is passionate about web development</h2>
 <div align="center">
-  <img align="center" width="50%" alt="" src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif"/>
+  <img align="center" width="50%" alt="" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 </div>
 
 - 🔭 I am currently working at [Jotform](https://www.jotform.com/) as a part-time front-end developer.
