@@ -3,7 +3,7 @@
   <img align="center" width="50%" alt="" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 </div>
 
-- 🔭 I am currently working at [**Jotform**](https://www.jotform.com/) as a part-time front-end developer.
+- 🔭 I am currently working at [**Picus Security**](https://www.picussecurity.com/) as a software engineer.
 
 - 👨‍💻 All of my projects are available at [https://davutkulaksiz.github.io/](https://davutkulaksiz.github.io/)
 
