@@ -1,4 +1,4 @@
-<h2 align="center">A <s>student</s> junior developer who is passionate about web development</h2>
+<h2 align="center">A <s>student</s> software engineer who is passionate about web development</h2>
 <div align="center">
   <img align="center" width="50%" alt="" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 </div>
