@@ -1,4 +1,4 @@
-<h2 align="center">A <s>junior</s> mid-level software engineer who is passionate about front-end engineering</h2>
+<h2 align="center">A mid-level software engineer who is passionate about front-end engineering</h2>
 <div align="center">
   <img align="center" width="50%" alt="" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 </div>
